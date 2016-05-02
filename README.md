@@ -1,6 +1,6 @@
 # Functionality #
 
-This application accesses the user's inbox and then submits the present emails as request items. the application then removes those emails from the inbox and places them in a folder of the user's choosing.
+This application accesses the user's inbox and then submits the present emails as request items. the application then removes those emails from the inbox and places them in a folder of the user's choosing. the aggregated emails are then passed to a 3rd party application (such as kinetic task) to handle the emails as requested.
 
 # Implementation #
 
